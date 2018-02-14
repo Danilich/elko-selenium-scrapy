@@ -1,0 +1,16 @@
+setup.py
+elko/__init__.py
+elko/items.py
+elko/pipelines.py
+elko/settings.py
+elko/pipelines/__init__.py
+elko/pipelines/csv.py
+elko/pipelines/json.py
+elko/spiders/__init__.py
+elko/spiders/catalog_crawler.py
+elko/spiders/products_crawler.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
